@@ -1,0 +1,11 @@
+# 凭据
+.gh_token
+
+# 原始明细与运行日志（体积大 / 含账号名）
+data/
+logs_*.log
+tools/
+
+# Python
+__pycache__/
+*.pyc
